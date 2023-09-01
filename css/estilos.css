@@ -1,5 +1,7 @@
 body{
     margin: 1rem;
+    background-color: rgb(65, 62, 62);
+    text-align: center;
 }
 
 .agregarItem label{
