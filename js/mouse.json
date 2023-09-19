@@ -1,0 +1,66 @@
+[
+	{
+		"id": "1",
+		"nombre": "Logitech G305",
+		"marca": "Logitech",
+		"imagen": "./img/1.jpg",
+		"precio": 21500,
+		"descripcion": "Muose Logitech inalámbrico 25000dpi"
+	},
+	{
+		"id": "2",
+		"nombre": "Logitech G203",
+		"marca": "Logitech",
+		"imagen": "./img/2.png",
+		"precio": 17600,
+		"descripcion": "Mouse Logitech Óptico 18000dpi"
+	},
+	{
+		"id": "3",
+		"nombre": "Razer Essential",
+		"marca": "Razer",
+		"imagen": "./img/3.jpg",
+		"precio": 19000,
+		"descripcion": "Mouse Razer inalámbrico 15000dpi"
+	},
+	{
+		"id": "4",
+		"nombre": "Redragon Cobra M711",
+		"marca": "Redragon",
+		"imagen": "./img/4.jpg",
+		"precio": 14200,
+		"descripcion": "Mouse gamer Redragon con 21000dpi"
+	},
+	{
+		"id": "5",
+		"nombre": "Redragon Griffin M607",
+		"marca": "Redragon",
+		"imagen": "./img/5.jpg",
+		"precio": 11900,
+		"descripcion": "Mouse Redragon oficial con 12000dpi"
+	},
+	{
+		"id": "6",
+		"nombre": "Glorious Model D",
+		"marca": "Glorious",
+		"imagen": "./img/7.jpg",
+		"precio": 18000,
+		"descripcion": "Mouse gamer Glorious con 17500dpi"
+	},
+	{
+		"id": "7",
+		"nombre": "Crow Feather",
+		"marca": "Crow Feather",
+		"imagen": "./img/9.jpg",
+		"precio": 20700,
+		"descripcion": "Mouse Gamer CROW FEATHER con 10000dpi"
+	},
+	{
+		"id": "8",
+		"nombre": "Coolermaster Mm720",
+		"marca": "Coolermaster",
+		"imagen": "./img/8.jpg",
+		"precio": 27400,
+		"descripcion": "Mouse Coolermaster gamer 5 botones 22000dpi"
+	}
+]
